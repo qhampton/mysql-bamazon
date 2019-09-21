@@ -1,0 +1,24 @@
+{
+  "name": "mysql-bamazon",
+  "version": "1.0.0",
+  "description": "HW 10: Node &amp; MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qhampton/mysql-bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qhampton/mysql-bamazon/issues"
+  },
+  "homepage": "https://github.com/qhampton/mysql-bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
